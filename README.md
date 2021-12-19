@@ -1,5 +1,4 @@
 # To Do List
 Simple to do list using only html,css,jQuery
- 
-# Snap in Action
-![image](./image.png)
+<br>
+Take a look at it : [Play](https://anonymous372.github.io/To_Do_List/)
